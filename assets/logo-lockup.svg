@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="24" viewBox="0 0 140 24" fill="none">
+  <title>EconLens</title>
+  <g transform="scale(0.24)">
+    <circle cx="50" cy="50" r="44" stroke="#0F2D4A" stroke-width="6"/>
+    <path d="M20 76 C36 66 42 56 50 50 C58 44 66 34 80 24" stroke="#7F93AA" stroke-width="5" stroke-linecap="round"/>
+    <path d="M20 24 C34 34 42 44 50 50 C58 56 66 66 80 76" stroke="#F4B942" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="50" cy="50" r="6" fill="#0F2D4A"/>
+  </g>
+  <text x="32" y="17" font-family="Montserrat, 'Plus Jakarta Sans', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#0F2D4A">Econ<tspan fill="#D9920B">Lens</tspan></text>
+</svg>

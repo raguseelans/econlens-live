@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <title>EconLens</title>
+  <circle cx="50" cy="50" r="44" stroke="#0F2D4A" stroke-width="6"/>
+  <path d="M20 76 C36 66 42 56 50 50 C58 44 66 34 80 24" stroke="#7F93AA" stroke-width="5" stroke-linecap="round"/>
+  <path d="M20 24 C34 34 42 44 50 50 C58 56 66 66 80 76" stroke="#F4B942" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="50" cy="50" r="6" fill="#0F2D4A"/>
+</svg>
